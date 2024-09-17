@@ -1,0 +1,3 @@
+Analysis of Billionaires around the globe using Python
+
+At the end of the Analysis, I came to the conclusion that United States Of America and China are the countries with maximum number of Billionaires which concludes that Growth and success rate of startups is more in US and China than other countries. Industries like Finance & Investments and Technology has a lot of demand. Many people have flourished in these industries. Highest paid Industry is Technology. Jeff Bezos is the richest Billionaire having Net Worth of 177 Billion Dollars. India's Richest Billionaire is Mukesh Ambani having Net Worth 84.5 Billion Dollars. Most Paid Industries in India is Manufacturing.
